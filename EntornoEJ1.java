@@ -3,7 +3,7 @@ package entornoej1;
 import java.util.Scanner;
 /**
  *
- * @author usuarioDAW
+ * @author joseluisms24
  */
 public class EntornoEJ1 {
 
